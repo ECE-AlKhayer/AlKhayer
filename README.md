@@ -2,4 +2,4 @@
 HTML and CSS: Third design 
 
 Third simple project to learn HTML and CSS concepts
-Demo website: https://cse-alkhayer.github.io/AlKhayer/
+Demo website: https://ece-alkhayer.github.io/AlKhayer/
